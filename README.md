@@ -1,1 +1,1 @@
-# AIsdf
+This folder contains AI projects
