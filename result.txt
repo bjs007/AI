@@ -1,0 +1,72 @@
+--------------------------------------------------
+SIMULATION RESULTS ON dataset1
+--------------------------------------------------
+
+Wealth (the larger the better)
+
+Agent_bnb:		$1,775,950.00
+Agent_lr:		$1,638,100.00
+Agent_svc:		$1,596,800.00
+Agent_bsharma:		$1,775,950.00
+
+Log-loss (the smaller the better)
+
+Agent_bnb:		332.25
+Agent_lr:		373.89
+Agent_svc:		408.75
+Agent_bsharma:		332.25
+
+0/1 Loss (the smaller the better)
+
+Agent_bnb:		88
+Agent_lr:		115
+Agent_svc:		147
+Agent_bsharma:		88
+--------------------------------------------------
+SIMULATION RESULTS ON dataset2
+--------------------------------------------------
+
+Wealth (the larger the better)
+
+Agent_bnb:		$1,507,950.00
+Agent_lr:		$1,717,100.00
+Agent_svc:		$1,540,800.00
+Agent_bsharma:		$1,717,100.00
+
+Log-loss (the smaller the better)
+
+Agent_bnb:		553.13
+Agent_lr:		487.71
+Agent_svc:		564.25
+Agent_bsharma:		487.71
+
+0/1 Loss (the smaller the better)
+
+Agent_bnb:		250
+Agent_lr:		223
+Agent_svc:		293
+Agent_bsharma:		223
+--------------------------------------------------
+SIMULATION RESULTS ON dataset3
+--------------------------------------------------
+
+Wealth (the larger the better)
+
+Agent_bnb:		$795,950.00
+Agent_lr:		$810,100.00
+Agent_svc:		$1,102,800.00
+Agent_bsharma:		$1,102,800.00
+
+Log-loss (the smaller the better)
+
+Agent_bnb:		571.94
+Agent_lr:		566.91
+Agent_svc:		413.10
+Agent_bsharma:		413.10
+
+0/1 Loss (the smaller the better)
+
+Agent_bnb:		250
+Agent_lr:		255
+Agent_svc:		165
+Agent_bsharma:		165
